@@ -10,3 +10,5 @@ Petal.Length: length of the petal
 ![image](https://github.com/KoshCocna/visualization_data-iris-_using_seaborn/assets/76080450/45df56b9-d4be-44b2-b02f-3eaf15363ff0)
 
 ![image](https://github.com/KoshCocna/visualization_data-iris-_using_seaborn/assets/76080450/a33a100b-025c-4b75-91c7-d5499d4f7680)
+
+The Iris example is a very important example in AI machine learning.  
